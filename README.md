@@ -2,9 +2,7 @@
 
 Computer Science Student at Government College of Engineering, Salem.
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
--  🔭 Here's my [portfolio](https://renderspark.vercel.app/)                                           
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on MERN Stack
+-  🔭 Here's my [portfolio](https://renderspark.vercel.app/)                                       
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white" />](https://wa.me/9345546946) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raghul-ram/)
 
